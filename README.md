@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -29,6 +28,7 @@
 
 <p>Mga gusto naming puntahan pag is madami na kaming pera mga 100k per month.</p>
 
+<div class="gallery">
 <figure>
   <a href="https://www.freecodecamp.org/learn" target="\_blank">
     <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Roman Colosseo">
@@ -49,7 +49,9 @@
   </a>
   <figcaption>Dagat lang</figcaption>
 </figure>
- 
+
+</div>
+ 
 </body>
 
 </html>
